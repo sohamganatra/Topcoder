@@ -1,0 +1,2 @@
+Codechef december challenge question code ORac... I used a new function count. 
+It counts a particular char in the string it is used as count(s.begin(),s.end(),'c').
